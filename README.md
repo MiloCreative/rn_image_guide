@@ -2,7 +2,7 @@
 
 ### General
 * Specifiy the size in \<Image\> componensts as per the design. Dont let the source file to decide it.
-* Add files with @2x and @3x suffixes.[More info] (http://facebook.github.io/react-native/releases/0.40/docs/images.html#images)
+* Add files with @2x and @3x suffixes. [more info..] (http://facebook.github.io/react-native/releases/0.40/docs/images.html#images)
 
 ### Rules to adhere while naming image files
 
